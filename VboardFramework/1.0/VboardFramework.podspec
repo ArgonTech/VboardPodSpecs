@@ -27,6 +27,7 @@ s.dependency 'SDWebImage', '~>3.7'
 s.dependency "YoutubePlayer-in-WKWebView", "~> 0.2.0"
 
 # 8
+s.source_files = "VboardFramework/**/*"
 
 # 9
 s.resources = "VboardFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
